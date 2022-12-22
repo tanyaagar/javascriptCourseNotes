@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: cloneObj.js
+  checksum: f08c1c37f3617767c98a6075a955c53963c3bd09281edb4e40a95d2926f50137
+- filename: stirngProperties.js
+  checksum: 92998f0914a6b7b01332751de3b460fac3be7c2b8e3cf6e50cb5309e1bd0aa9e
+version: ""
